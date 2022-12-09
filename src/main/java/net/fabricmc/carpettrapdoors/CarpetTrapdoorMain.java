@@ -11,10 +11,7 @@ import net.minecraft.util.Identifier;
 public class CarpetTrapdoorMain implements ModInitializer {
 
 	public static final String MOD_ID = "carpettrapdoors";
-	public static final String MOD_NAME = "CarpetTrapdoor";
-	public static final String VERSION = "1.0";
-	public static final ItemGroup CARPET_TRAPDOORS = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "carpet_trapdoors"), () -> new ItemStack(Blocks.WHITE_CARPET));
-
+	public static final ItemGroup CARPET_TRAPDOORS = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "carpet_trapdoors"), () -> new ItemStack(Blocks.RED_CARPET));
 
 	@Override
 	public void onInitialize() {
