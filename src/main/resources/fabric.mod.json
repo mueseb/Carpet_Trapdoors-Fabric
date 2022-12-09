@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "carpettrapdoors",
+  "version": "${version}",
+
+  "name": "Carpet Trapdoors [Fabric]",
+  "description": "Making invisible iron/wood trapdoors by disguising them as carpets.",
+  "authors": [
+    "mueseb"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GPL-3.0",
+  "icon": "assets/carpettrapdoors/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.carpettrapdoors.CarpetTrapdoorMain"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
