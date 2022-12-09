@@ -2,7 +2,7 @@
 
 Simple mod that disguises iron/wood trapdoors as carpets.
 
-All trapdoors still behave like carpet vanilla iron/wooden trapdoors.
+All trapdoors still behave like carpet vanilla iron/wooden trapdoors with all functionality.
 
 Recipe supports all types of wooden trapdoors + iron and all types of carpets.
 
