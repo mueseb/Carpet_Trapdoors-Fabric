@@ -5,4 +5,11 @@ Simple mod that disguises iron/wood trapdoors as carpets.
 
 Recipe supports all types of wooden trapdoors + iron and all types of carpets.
 
-![Alt Text](https://github.com/mueseb/Carpet_Trapdoors-Fabric/blob/master/recipe.gif)
+![Recipe GIF](https://github.com/mueseb/Carpet_Trapdoors-Fabric/blob/master/recipe.gif)
+
+### Preview
+
+Full Texturepack Support
+![Preview 1](https://github.com/mueseb/Carpet_Trapdoors-Fabric/blob/master/preview1.png)
+![Preview 2](https://github.com/mueseb/Carpet_Trapdoors-Fabric/blob/master/preview2.png)
+
