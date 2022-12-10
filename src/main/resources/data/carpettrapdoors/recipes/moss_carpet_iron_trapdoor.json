@@ -1,19 +1,20 @@
 {
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "carpettrapdoors:moss_carpet_iron_trapdoor"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ]
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#O#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:moss_carpet"
+    },
+    "O": {
+      "item": "minecraft:iron_trapdoor"
     }
-  ]
+  },
+  "result": {
+    "item": "carpettrapdoors:moss_carpet_iron_trapdoor",
+    "count": 1
+  }
 }
