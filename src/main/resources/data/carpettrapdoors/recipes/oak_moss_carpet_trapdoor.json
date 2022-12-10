@@ -7,14 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:red_carpet"
+      "item": "minecraft:moss_carpet"
     },
     "O": {
-      "item": "minecraft:iron_trapdoor"
+      "item": "minecraft:oak_trapdoor"
     }
   },
   "result": {
-    "item": "carpettrapdoors:red_carpet_iron_trapdoor",
+    "item": "carpettrapdoors:moss_carpet_trapdoor",
     "count": 1
   }
 }
