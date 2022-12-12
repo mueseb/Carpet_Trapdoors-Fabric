@@ -33,13 +33,13 @@ public class ModBlocks {
     public static void registerWoodenTrapdoors()
     {
         for (String color: colors) {
-            registerBlock(color+"_carpet_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.of(Material.CARPET).strength(3.0f, 3.0f).sounds(BlockSoundGroup.WOOL)));
+            registerBlock(color+"_carpet_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.of(Material.CARPET).strength(0.1f, 0.1f).sounds(BlockSoundGroup.WOOL)));
         }
     }
     public static void registerIronTrapdoors()
     {
         for (String color: colors) {
-            registerBlock(color+"_carpet_iron_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.of(Material.METAL).strength(3.0f, 3.0f).sounds(BlockSoundGroup.WOOL)));
+            registerBlock(color+"_carpet_iron_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.of(Material.METAL).strength(0.1f, 0.1f).sounds(BlockSoundGroup.WOOL)));
         }
     }
 
