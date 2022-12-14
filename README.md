@@ -1,4 +1,4 @@
-# Carpet Trapdoors **[Fabric]** 1.16.5
+# Carpet Trapdoors **[Fabric]**
 
 Simple mod that disguises iron/wood trapdoors as carpets.
 
