@@ -3,10 +3,10 @@
   "id": "carpettrapdoors",
   "version": "${version}",
   "name": "Carpet Trapdoors [Fabric]",
-  "description": "",
-  "authors": [],
+  "description": "Hiding iron/wood trapdoors by disguising them as carpets.",
+  "authors": ["mueseb"],
   "contact": {
-    "repo": "https://github.com/Basti/Carpet_Trapdoors_1.20"
+    "repo": "https://github.com/mueseb/Carpet_Trapdoors-Fabric"
   },
   "license": "GPL-3.0",
   "icon": "assets/carpettrapdoors/icon.png",
