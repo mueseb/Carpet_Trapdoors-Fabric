@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "carpettrapdoors",
+  "version": "${version}",
+  "name": "Carpet Trapdoors [Fabric]",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Basti/Carpet_Trapdoors_1.20"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/carpettrapdoors/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "at.mueseb.carpettrapdoors.CarpetTrapdoorMain"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.20",
+    "fabric-api": "*",
+    "minecraft": "1.20",
+    "java": ">=17"
+  }
+}
